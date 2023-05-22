@@ -1,0 +1,3 @@
+gradio
+matplotlib
+scikit-learn
